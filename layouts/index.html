@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>Latest posts</h1>
+<ul>
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ range where $posts "Params.publish" true }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <small> — {{ .Date.Format "January 02, 2006" }}</small>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}
+

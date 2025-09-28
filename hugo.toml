@@ -1,0 +1,14 @@
+baseURL = 'https://omarreid.co.uk/'
+languageCode = 'en-us'
+title = 'Omar Reid'
+
+
+[pagination]
+  pagerSize = 20
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
