@@ -12,6 +12,8 @@ aliases: []
 
 **Summary**  
 
+Ego blinds us at every scale. As individuals, we cling to a self image and ignore facts that would nudge us toward better habits, relationships, or work. In small companies, founders defend the first idea or early praise and miss the quiet signals pointing to a better path. In large companies, leaders protect yesterday’s playbook, titles, and metrics long after the market has moved on. The cost is the same each time: slower learning, delayed endings, and worse decisions. It applies at every level: individuals, startups, and large companies.
+
 The Selfless Innovator sidesteps the [innovator’s dilemma](https://en.wikipedia.org/wiki/The_Innovator's_Dilemma) by removing ego as the blocker: goals are living, truth is the boss, and teams serve customers rather than defend legacy wins. When identity is flexible and the present is fully embraced, the better thing is allowed to lead without drama. Endings are celebrated, not resisted, and learning updates the path quickly. The dilemma does not need to be battled; it dissolves in a culture that keeps seeing what is and moves with it.
 
 **Definition**  
