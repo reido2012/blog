@@ -12,7 +12,7 @@ aliases: []
 
 **Summary**  
 
-The Selfless Innovator sidesteps the [innovator’s dilemma ](https://en.wikipedia.org/wiki/The_Innovator's_Dilemma)by removing ego as the blocker: goals are living, truth is the boss, and teams serve customers rather than defend legacy wins. When identity is flexible and the present is fully embraced, the better thing is allowed to lead without drama. Endings are celebrated, not resisted, and learning updates the path quickly. The dilemma doesn’t need to be battled; it dissolves in a culture that keeps seeing what is and moves with it.
+The Selfless Innovator sidesteps the [innovator’s dilemma](https://en.wikipedia.org/wiki/The_Innovator's_Dilemma) by removing ego as the blocker: goals are living, truth is the boss, and teams serve customers rather than defend legacy wins. When identity is flexible and the present is fully embraced, the better thing is allowed to lead without drama. Endings are celebrated, not resisted, and learning updates the path quickly. The dilemma does not need to be battled; it dissolves in a culture that keeps seeing what is and moves with it.
 
 **Definition**  
 
